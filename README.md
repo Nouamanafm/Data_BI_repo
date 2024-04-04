@@ -1,2 +1,2 @@
-# Data_BI_repo
+# Repo-BI
 Data Bi repo
